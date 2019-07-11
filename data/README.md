@@ -1,0 +1,1 @@
+I do not have ownership over this data. It is a very small subset of the lab's data. I have no intention to infringe on others' data. I am just uploading a few representative samples of the data to let people understand my part of work in this repo with respect to the data. 
